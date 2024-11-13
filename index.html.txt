@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exploring California</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to an external CSS file for styling -->
+</head>
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <h1>Exploring My Favorite California Getaways</h1>
+        <p>Beaches, Sunsets, Hikes, and Venice Vibes</p>
+    </header>
+
+    <!-- Beaches & Sunsets Section -->
+    <section id="beaches-sunsets" class="section">
+        <h2>Beaches & Sunsets</h2>
+        <p>California’s beaches are everything I love about the coast—sunshine, waves, and those amazing, colorful sunsets that paint the sky every evening. I can never get enough of places like Santa Monica and Malibu, where just sitting on the sand feels like the perfect escape. Watching the sun dip below the horizon there feels magical every single time.</p>
+        <div class="gallery">
+            <!-- Placeholder for beach and sunset images -->
+            <img src="beach1.jpg" alt="California Beach">
+            <img src="sunset.jpg" alt="California Sunset">
+        </div>
+    </section>
+
+    <!-- Hiking Adventures Section -->
+    <section id="hiking-adventures" class="section">
+        <h2>Hiking Adventures</h2>
+        <p>I’m always up for a good hike, and California has some incredible spots, even though nothing quite beats the trails back home in Washington! Some favorites are Griffith Park and Runyon Canyon, where you get the views of LA sprawled out below you. It’s always a mix of people out there, from locals to tourists, and everyone’s just soaking up the views and sunshine.</p>
+        <div class="gallery">
+            <!-- Placeholder for hiking trail images -->
+            <img src="hike1.jpg" alt="Griffith Park Trail">
+            <img src="hike2.jpg" alt="Runyon Canyon View">
+        </div>
+    </section>
+
+    <!-- Food & Dining Experiences Section -->
+    <section id="food-dining" class="section">
+        <h2>Food & Dining Experiences</h2>
+        <p>One of my favorite parts of visiting California is exploring all the unique places to eat. Every corner has something different—from taco trucks to upscale beachside spots. And yes, I definitely make a stop at In-N-Out! It’s like a mini food adventure every time, with a new favorite dish to discover or an old favorite to revisit.</p>
+        <div class="gallery">
+            <!-- Placeholder for food images -->
+            <img src="food1.jpg" alt="Taco Truck">
+            <img src="food2.jpg" alt="In-N-Out Burger">
+        </div>
+    </section>
+
+    <!-- Strolling on Venice Beach Section -->
+    <section id="venice-beach" class="section">
+        <h2>Strolling on Venice Beach</h2>
+        <p>Venice Beach is unlike anywhere else. I love walking along the boardwalk, seeing the street performers, checking out the little shops, and just taking in the vibe. It’s colorful, it’s quirky, and it has this energy that makes you feel like you’re part of something fun and unpredictable.</p>
+        <div class="gallery">
+            <!-- Placeholder for Venice Beach images -->
+            <img src="venice1.jpg" alt="Venice Beach Boardwalk">
+            <img src="venice2.jpg" alt="Street Performers at Venice">
+        </div>
+    </section>
+
+    <!-- Travel Tips Section -->
+    <section id="travel-tips" class="section">
+        <h2>My Travel Tips</h2>
+        <p>I usually visit California when the weather’s just right—not too hot, not too cold, so around late spring or early fall. I make sure to pack essentials like good sunscreen, comfortable hiking shoes, and of course, beachwear. There’s always something new to discover, which is why I find myself coming back as often as I can.</p>
+        <ul>
+            <li>Best Time to Visit: Late Spring or Early Fall</li>
+            <li>Packing List: Sunscreen, Hiking Shoes, Beachwear</li>
+        </ul>
+    </section>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; 2024 Aiha's Travel Guide</p>
+        <!-- Social Media Links (Optional) -->
+    </footer>
+
+</body>
+</html>
